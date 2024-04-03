@@ -3,9 +3,9 @@ About ply
 
 Home: http://www.dabeaz.com/ply/index.html
 
-Package license: BSD 3-clause
+Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Python Lex-Yacc
 
