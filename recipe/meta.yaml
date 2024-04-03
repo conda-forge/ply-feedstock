@@ -33,7 +33,7 @@ about:
   home: http://www.dabeaz.com/ply/index.html
   license: BSD-3-Clause
   license_family: BSD
-  license_file: LICENSE.txt
+  license_file: README.md
   summary: 'Python Lex-Yacc'
   description: |
     PLY is a 100% Python implementation of the common parsing tools lex and
